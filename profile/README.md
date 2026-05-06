@@ -13,9 +13,9 @@
 
 **Stablecoin billing infrastructure for internet businesses.**
 
-- 💸 &nbsp;Payments, subscriptions, invoices, and a customer portal — one API
-- 🔐 &nbsp;Non-custodial by design — funds settle direct to your wallet on-chain
-- ⚡ &nbsp;~12s confirmation · 6 chains · 1% fee at Starter, dropping to 0.65%
+- Payments, subscriptions, invoices, and a customer portal — one API
+- Non-custodial by design — funds settle direct to your wallet on-chain
+- ~12s confirmation · 6 chains · 1% fee at Starter, dropping to 0.65%
 
 <br>
 
@@ -120,7 +120,7 @@ Security audit reports — open, no NDA required
 [![Docs](https://img.shields.io/badge/Docs-111827?style=for-the-badge&logoColor=white)](https://opensettle.io/docs)
 [![npm](https://img.shields.io/badge/@opensettle%2Fsdk-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@opensettle/sdk)
 [![API](https://img.shields.io/badge/API_Explorer-3C3C3D?style=for-the-badge&logoColor=white)](https://api.opensettle.io/v1/docs)
-[![Email](https://img.shields.io/badge/hello@opensettle.io-2CB58A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello@opensettle.io)
+[![Email](https://img.shields.io/badge/opensettle@proton.me-2CB58A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:opensettle@proton.me)
 
 </div>
 
