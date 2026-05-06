@@ -30,6 +30,7 @@ Billing infrastructure for internet businesses that want to accept USDC and USDT
 
 | Repo | What it is |
 |------|-----------|
+| [`opensettle-sdk-js`](https://github.com/OpenSettle/opensettle-sdk-js) | Official Node.js / TypeScript SDK · [`@opensettle/sdk`](https://www.npmjs.com/package/@opensettle/sdk) on npm |
 | [`opensettle-openapi`](https://github.com/OpenSettle/opensettle-openapi) | Versioned OpenAPI 3.1 spec — generate a client in any language |
 | [`opensettle-webhook-examples`](https://github.com/OpenSettle/opensettle-webhook-examples) | Webhook signature verification in Node |
 | [`opensettle-integration-examples`](https://github.com/OpenSettle/opensettle-integration-examples) | End-to-end merchant integration walkthroughs |
