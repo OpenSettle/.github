@@ -9,7 +9,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=600&color=2CB58A&width=520&lines=Non-custodial+stablecoin+billing.;One+API.+Six+chains.;Funds+go+directly+to+your+wallet." alt="OpenSettle tagline"/>
 </a>
 
-Billing infrastructure for internet businesses that want to accept USDC and USDT without giving up custody. Subscriptions, invoices, checkouts, webhooks, and a customer portal — all settled direct to your wallet in the same on-chain transaction.
+<br>
+
+**Stablecoin billing infrastructure for internet businesses.**
+
+- 💸 &nbsp;Payments, subscriptions, invoices, and a customer portal — one API
+- 🔐 &nbsp;Non-custodial by design — funds settle direct to your wallet on-chain
+- ⚡ &nbsp;~12s confirmation · 6 chains · 1% fee at Starter, dropping to 0.65%
+
+<br>
+
+[![npm installs](https://img.shields.io/npm/dm/@opensettle/sdk?style=flat-square&label=npm%20installs%2Fmo&color=2CB58A)](https://www.npmjs.com/package/@opensettle/sdk)
+[![npm version](https://img.shields.io/npm/v/@opensettle/sdk?style=flat-square&label=%40opensettle%2Fsdk&color=CB3837)](https://www.npmjs.com/package/@opensettle/sdk)
+[![chains](https://img.shields.io/badge/chains-6_live-2CB58A?style=flat-square)](https://opensettle.io/docs/chains)
+[![status](https://img.shields.io/badge/status-production-2CB58A?style=flat-square)](https://opensettle.io/status)
 
 ---
 
@@ -26,23 +39,78 @@ Billing infrastructure for internet businesses that want to accept USDC and USDT
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Tron](https://img.shields.io/badge/Tron-FF0013?style=flat-square&logoColor=white)
 
+---
+
 ### Repositories
 
-| Repo | What it is |
-|------|-----------|
-| [`opensettle-sdk-js`](https://github.com/OpenSettle/opensettle-sdk-js) | Official Node.js / TypeScript SDK · [`@opensettle/sdk`](https://www.npmjs.com/package/@opensettle/sdk) on npm |
-| [`opensettle-openapi`](https://github.com/OpenSettle/opensettle-openapi) | Versioned OpenAPI 3.1 spec — generate a client in any language |
-| [`opensettle-webhook-examples`](https://github.com/OpenSettle/opensettle-webhook-examples) | Webhook signature verification in Node |
-| [`opensettle-integration-examples`](https://github.com/OpenSettle/opensettle-integration-examples) | End-to-end merchant integration walkthroughs |
-| [`opensettle-postman`](https://github.com/OpenSettle/opensettle-postman) | Postman collection + environment template |
-| [`opensettle-docs`](https://github.com/OpenSettle/opensettle-docs) | Documentation source for opensettle.io/docs |
-| [`opensettle-status`](https://github.com/OpenSettle/opensettle-status) | Status page and incident postmortems |
-| [`audits`](https://github.com/OpenSettle/audits) | Security audit summaries and hardening notes |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`opensettle-sdk-js`](https://github.com/OpenSettle/opensettle-sdk-js)**  
+Official Node.js / TypeScript SDK  
+[![npm](https://img.shields.io/npm/v/@opensettle/sdk?style=flat-square&color=CB3837)](https://www.npmjs.com/package/@opensettle/sdk)
+
+</td>
+<td width="50%" valign="top">
+
+**[`opensettle-openapi`](https://github.com/OpenSettle/opensettle-openapi)**  
+OpenAPI 3.1 spec — generate a client in any language
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`opensettle-webhook-examples`](https://github.com/OpenSettle/opensettle-webhook-examples)**  
+Webhook signature verification in Node
+
+</td>
+<td width="50%" valign="top">
+
+**[`opensettle-integration-examples`](https://github.com/OpenSettle/opensettle-integration-examples)**  
+End-to-end merchant integration walkthroughs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`opensettle-postman`](https://github.com/OpenSettle/opensettle-postman)**  
+Postman collection + environment template
+
+</td>
+<td width="50%" valign="top">
+
+**[`opensettle-docs`](https://github.com/OpenSettle/opensettle-docs)**  
+Documentation source for [opensettle.io/docs](https://opensettle.io/docs)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`opensettle-status`](https://github.com/OpenSettle/opensettle-status)**  
+Status page and incident postmortems
+
+</td>
+<td width="50%" valign="top">
+
+**[`audits`](https://github.com/OpenSettle/audits)**  
+Security audit reports — open, no NDA required
+
+</td>
+</tr>
+</table>
+
+---
 
 ### Security
 
 > [!IMPORTANT]
 > Responsible disclosure: [opensettle.io/security](https://opensettle.io/security) · [opensettle@proton.me](mailto:opensettle@proton.me)
+
+---
 
 ### Connect
 
@@ -51,7 +119,7 @@ Billing infrastructure for internet businesses that want to accept USDC and USDT
 [![Website](https://img.shields.io/badge/opensettle.io-2CB58A?style=for-the-badge&logoColor=white)](https://opensettle.io)
 [![Docs](https://img.shields.io/badge/Docs-111827?style=for-the-badge&logoColor=white)](https://opensettle.io/docs)
 [![npm](https://img.shields.io/badge/@opensettle%2Fsdk-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@opensettle/sdk)
-[![API Explorer](https://img.shields.io/badge/API_Explorer-3C3C3D?style=for-the-badge&logoColor=white)](https://api.opensettle.io/v1/docs)
+[![API](https://img.shields.io/badge/API_Explorer-3C3C3D?style=for-the-badge&logoColor=white)](https://api.opensettle.io/v1/docs)
 [![Email](https://img.shields.io/badge/hello@opensettle.io-2CB58A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello@opensettle.io)
 
 </div>
