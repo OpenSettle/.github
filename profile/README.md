@@ -6,7 +6,7 @@
 </picture>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=600&color=2CB58A&width=520&lines=Non-custodial+stablecoin+billing.;One+API.+Six+chains.;Funds+go+directly+to+your+wallet." alt="OpenSettle tagline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=4000&pause=600&color=2CB58A&width=520&lines=Non-custodial+stablecoin+billing.;One+API.+Four+EVM+chains.;Funds+go+directly+to+your+wallet." alt="OpenSettle tagline"/>
 </a>
 
 <br>
@@ -15,13 +15,13 @@
 
 - Payments, subscriptions, invoices, and a customer portal — one API
 - Non-custodial by design — funds settle direct to your wallet on-chain
-- ~12s confirmation · 6 chains · 1% fee at Starter, dropping to 0.65%
+- ~12s confirmation · 4 EVM chains · 1% fee at Starter, dropping to 0.65%
 
 <br>
 
 [![npm installs](https://img.shields.io/npm/dm/@opensettle/sdk?style=flat-square&label=npm%20installs%2Fmo&color=2CB58A)](https://www.npmjs.com/package/@opensettle/sdk)
 [![npm version](https://img.shields.io/npm/v/@opensettle/sdk?style=flat-square&label=%40opensettle%2Fsdk&color=CB3837)](https://www.npmjs.com/package/@opensettle/sdk)
-[![chains](https://img.shields.io/badge/chains-6_live-2CB58A?style=flat-square)](https://opensettle.io/docs/chains)
+[![chains](https://img.shields.io/badge/chains-4_EVM_live-2CB58A?style=flat-square)](https://opensettle.io/docs/chains)
 [![status](https://img.shields.io/badge/status-production-2CB58A?style=flat-square)](https://opensettle.io/status)
 
 ---
@@ -36,8 +36,6 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=flat-square&logo=polygon&logoColor=white)
 ![Arbitrum](https://img.shields.io/badge/Arbitrum-12AAFF?style=flat-square&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Tron](https://img.shields.io/badge/Tron-FF0013?style=flat-square&logoColor=white)
 
 ---
 
