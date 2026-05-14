@@ -49,4 +49,4 @@ Short version: be kind, assume good faith, focus on the work.
 
 For things that aren't clearly a bug or PR, open a Discussion in the
 relevant repo (where Discussions are enabled), or email
-[opensettle@proton.me](mailto:opensettle@proton.me).
+[OpenSettle@proton.me](mailto:OpenSettle@proton.me).
