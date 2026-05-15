@@ -14,7 +14,10 @@ opening anything:
 | If you want to… | Open an issue or PR in… |
 |---|---|
 | Fix a typo or bug in the docs | [opensettle-docs](https://github.com/OpenSettle/opensettle-docs) |
-| Report a bug in the Node SDK | [opensettle-sdk-js](https://github.com/OpenSettle/opensettle-sdk-js) |
+| Report a bug in the Node / TypeScript SDK | [opensettle-sdk-js](https://github.com/OpenSettle/opensettle-sdk-js) |
+| Report a bug in the Python SDK | [opensettle-sdk-python](https://github.com/OpenSettle/opensettle-sdk-python) |
+| Report a bug in the Go SDK | [opensettle-sdk-go](https://github.com/OpenSettle/opensettle-sdk-go) |
+| Report a bug in the Rust SDK | [opensettle-sdk-rust](https://github.com/OpenSettle/opensettle-sdk-rust) |
 | Suggest a missing endpoint or wrong type in the spec | [opensettle-openapi](https://github.com/OpenSettle/opensettle-openapi) |
 | Add a webhook example in a new language | [opensettle-webhook-examples](https://github.com/OpenSettle/opensettle-webhook-examples) |
 | Improve the Postman collection | [opensettle-postman](https://github.com/OpenSettle/opensettle-postman) |

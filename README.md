@@ -19,7 +19,10 @@ doesn't override them.
 
 ## Public repos this applies to
 
-- [OpenSettle/opensettle-sdk-js](https://github.com/OpenSettle/opensettle-sdk-js) — Node SDK
+- [OpenSettle/opensettle-sdk-js](https://github.com/OpenSettle/opensettle-sdk-js) — Node / TypeScript SDK
+- [OpenSettle/opensettle-sdk-python](https://github.com/OpenSettle/opensettle-sdk-python) — Python SDK
+- [OpenSettle/opensettle-sdk-go](https://github.com/OpenSettle/opensettle-sdk-go) — Go SDK
+- [OpenSettle/opensettle-sdk-rust](https://github.com/OpenSettle/opensettle-sdk-rust) — Rust SDK
 - [OpenSettle/opensettle-openapi](https://github.com/OpenSettle/opensettle-openapi) — OpenAPI spec
 - [OpenSettle/opensettle-postman](https://github.com/OpenSettle/opensettle-postman) — Postman collection
 - [OpenSettle/opensettle-docs](https://github.com/OpenSettle/opensettle-docs) — Public docs source

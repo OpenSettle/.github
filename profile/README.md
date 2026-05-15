@@ -48,14 +48,45 @@
 <td width="50%" valign="top">
 
 **[`opensettle-sdk-js`](https://github.com/OpenSettle/opensettle-sdk-js)**  
-Official Node.js / TypeScript SDK  
+Node.js / TypeScript SDK  
 [![npm](https://img.shields.io/npm/v/@opensettle/sdk?style=flat-square&color=CB3837)](https://www.npmjs.com/package/@opensettle/sdk)
 
 </td>
 <td width="50%" valign="top">
 
+**[`opensettle-sdk-python`](https://github.com/OpenSettle/opensettle-sdk-python)**  
+Python SDK  
+[![PyPI](https://img.shields.io/pypi/v/opensettle?style=flat-square&color=3776AB)](https://pypi.org/project/opensettle/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[`opensettle-sdk-go`](https://github.com/OpenSettle/opensettle-sdk-go)**  
+Go SDK  
+[![Go Reference](https://img.shields.io/badge/pkg.go.dev-reference-00ADD8?style=flat-square&logo=go&logoColor=white)](https://pkg.go.dev/github.com/OpenSettle/opensettle-sdk-go)
+
+</td>
+<td width="50%" valign="top">
+
+**[`opensettle-sdk-rust`](https://github.com/OpenSettle/opensettle-sdk-rust)**  
+Rust SDK  
+[![crates.io](https://img.shields.io/crates/v/opensettle?style=flat-square&color=B7410E)](https://crates.io/crates/opensettle)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[`opensettle-openapi`](https://github.com/OpenSettle/opensettle-openapi)**  
 OpenAPI 3.1 spec — generate a client in any language
+
+</td>
+<td width="50%" valign="top">
+
+**[`opensettle-docs`](https://github.com/OpenSettle/opensettle-docs)**  
+Documentation source for [opensettle.io/docs](https://opensettle.io/docs)
 
 </td>
 </tr>
@@ -82,22 +113,21 @@ Postman collection + environment template
 </td>
 <td width="50%" valign="top">
 
-**[`opensettle-docs`](https://github.com/OpenSettle/opensettle-docs)**  
-Documentation source for [opensettle.io/docs](https://opensettle.io/docs)
+**[`opensettle-status`](https://github.com/OpenSettle/opensettle-status)**  
+Status page and incident postmortems
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[`opensettle-status`](https://github.com/OpenSettle/opensettle-status)**  
-Status page and incident postmortems
+**[`audits`](https://github.com/OpenSettle/audits)**  
+Security audit reports — open, no NDA required
 
 </td>
 <td width="50%" valign="top">
 
-**[`audits`](https://github.com/OpenSettle/audits)**  
-Security audit reports — open, no NDA required
+&nbsp;
 
 </td>
 </tr>

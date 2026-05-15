@@ -13,14 +13,15 @@ SDK, an example, or anything else under
 
 Both are monitored. Email is preferred for first contact.
 
-We aim to acknowledge reports within 24 hours and to provide an initial
-remediation timeline within 72 hours.
+We acknowledge new reports within 72 hours and provide a triage
+decision (with assigned severity) within 7 days.
 
 ## Disclosure policy
 
-The full disclosure policy — including safe-harbor commitments, scope,
-and out-of-scope categories — is at
-[opensettle.io/security](https://opensettle.io/security).
+The full disclosure policy — safe-harbor commitments, scope,
+out-of-scope categories, severity tiering, and target patch SLAs — is at
+[opensettle.io/legal/vulnerability-disclosure](https://opensettle.io/legal/vulnerability-disclosure).
+A short overview lives at [opensettle.io/security](https://opensettle.io/security).
 
 In summary:
 
@@ -36,11 +37,16 @@ In summary:
 ## Scope
 
 In scope:
-- The OpenSettle production API (`api.opensettle.io`)
-- The OpenSettle web app (`opensettle.io`, `app.opensettle.io`)
-- Any code in any public OpenSettle/* repository (SDK, examples, etc.)
-- Documentation if it would mislead someone into a vulnerable
-  integration
+- The OpenSettle production API (`api.opensettle.io`) and its documented
+  public endpoints
+- The OpenSettle web app (`opensettle.io`, including the dashboard)
+- Our published SDKs (`@opensettle/sdk` on npm, `opensettle` on PyPI,
+  `opensettle-sdk-go`, `opensettle` on crates.io)
+- Any code in any public OpenSettle/* repository (examples, OpenAPI spec, etc.)
+- Documentation if it would mislead someone into a vulnerable integration
+
+Auth bypass, payment-intent issuance, webhook signing, and tenant
+isolation are the highest priority paths.
 
 Out of scope:
 - Issues in third-party services we use (Vercel, Fly.io, Supabase,
