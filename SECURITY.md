@@ -8,7 +8,7 @@ If you've found a security issue in OpenSettle — the platform, an
 SDK, an example, or anything else under
 [github.com/OpenSettle](https://github.com/OpenSettle) — report it via:
 
-- **Email:** [OpenSettle@proton.me](mailto:OpenSettle@proton.me)
+- **Email:** [security@opensettle.io](mailto:security@opensettle.io)
 - **security.txt:** [opensettle.io/.well-known/security.txt](https://opensettle.io/.well-known/security.txt)
 
 Both are monitored. Email is preferred for first contact.

@@ -138,7 +138,7 @@ Security audit reports — open, no NDA required
 ### Security
 
 > [!IMPORTANT]
-> Responsible disclosure: [opensettle.io/security](https://opensettle.io/security) · [OpenSettle@proton.me](mailto:OpenSettle@proton.me)
+> Responsible disclosure: [opensettle.io/security](https://opensettle.io/security) · [security@opensettle.io](mailto:security@opensettle.io)
 
 ---
 
@@ -150,7 +150,7 @@ Security audit reports — open, no NDA required
 [![Docs](https://img.shields.io/badge/Docs-111827?style=for-the-badge&logoColor=white)](https://opensettle.io/docs)
 [![npm](https://img.shields.io/badge/@opensettle%2Fsdk-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@opensettle/sdk)
 [![API](https://img.shields.io/badge/API_Explorer-3C3C3D?style=for-the-badge&logoColor=white)](https://api.opensettle.io/v1/docs)
-[![Email](https://img.shields.io/badge/OpenSettle@proton.me-2CB58A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:OpenSettle@proton.me)
+[![Email](https://img.shields.io/badge/security@opensettle.io-2CB58A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@opensettle.io)
 
 </div>
 
