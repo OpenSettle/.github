@@ -15,14 +15,14 @@
 
 - Payments, subscriptions, invoices, and a customer portal — one API
 - Non-custodial by design — funds settle direct to your wallet on-chain
-- USDC + USDT on Base, Ethereum, Polygon, Arbitrum, Solana, Tron · 1% fee at Starter, dropping to 0.65%
+- USDC on Base, Ethereum, Polygon, Arbitrum, and Solana; USDT on Tron · 1% fee, dropping to 0.65% on volume
 
 <br>
 
 [![npm installs](https://img.shields.io/npm/dm/@opensettle/sdk?style=flat-square&label=npm%20installs%2Fmo&color=2CB58A)](https://www.npmjs.com/package/@opensettle/sdk)
 [![npm version](https://img.shields.io/npm/v/@opensettle/sdk?style=flat-square&label=%40opensettle%2Fsdk&color=CB3837)](https://www.npmjs.com/package/@opensettle/sdk)
-[![chains](https://img.shields.io/badge/chains-6_live-2CB58A?style=flat-square)](https://opensettle.io/docs/chains)
-[![status](https://img.shields.io/badge/status-production-2CB58A?style=flat-square)](https://opensettle.io/status)
+[![chains](https://img.shields.io/badge/chains-4_live%2C_2_verified-2CB58A?style=flat-square)](https://opensettle.io/docs/chains)
+[![status](https://img.shields.io/badge/status-pre--launch-F5A623?style=flat-square)](https://opensettle.io/status)
 
 ---
 
