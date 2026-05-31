@@ -15,7 +15,7 @@
 
 - Payments, subscriptions, invoices, and a customer portal — one API
 - Non-custodial by design — funds settle direct to your wallet on-chain
-- USDC on Base, Ethereum, Polygon, Arbitrum, and Solana; USDT on Tron · 1% fee, dropping to 0.65% on volume
+- USDC on Base, Ethereum, Polygon, Arbitrum, and Solana; USDT on Ethereum, Polygon, Arbitrum, Solana, and Tron · 1% fee, dropping to 0.65% on volume
 
 <br>
 

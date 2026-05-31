@@ -49,7 +49,7 @@ Auth bypass, payment-intent issuance, webhook signing, and tenant
 isolation are the highest priority paths.
 
 Out of scope:
-- Issues in third-party services we use (Vercel, Fly.io, Supabase,
+- Issues in third-party services we use (Hetzner, Cloudflare,
   Resend, etc.) — please report those to the vendor directly.
 - Test mode integrations (no real funds at risk by definition)
 - Reports requiring physical access to a merchant's machine
