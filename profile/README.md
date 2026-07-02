@@ -80,7 +80,7 @@ Rust SDK
 <td width="50%" valign="top">
 
 **[`opensettle-openapi`](https://github.com/OpenSettle/opensettle-openapi)**  
-OpenAPI 3.1 spec — generate a client in any language
+OpenAPI 3.0 spec — generate a client in any language
 
 </td>
 <td width="50%" valign="top">
